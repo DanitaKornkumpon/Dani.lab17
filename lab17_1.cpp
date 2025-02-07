@@ -5,7 +5,7 @@ using namespace std;
 int main(){
 	int nA,nB;
 	int *A,*B,**C;	
-	s
+	
 	cout << "Length of A: ";
 	cin >> nA;
 	
