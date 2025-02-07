@@ -2,6 +2,7 @@
 #include<cstdlib>
 #include<ctime>
 #include<vector>
+
 using namespace std;
 
 vector<int> randomVector(unsigned int N){	
